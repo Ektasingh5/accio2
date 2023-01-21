@@ -1,0 +1,57 @@
+.cont{
+    border: 1px solid black;
+}
+.fat1{
+    padding: 20px;
+}
+.fact1{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    margin-bottom: 30px;
+}
+.decent{
+    border: 1px solid black;
+    justify-self: center;
+    align-items: center;
+    width: 143px;
+    height: 61px;
+}
+.fact2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-bottom: 50px;
+}
+.fact3{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px; 
+    margin-bottom: 50px; 
+}
+.lab1{
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+.container{
+    width: 716px;
+    height: 61px;
+}
+.btn1{
+    width: 120px;
+    height: 65px;
+    margin-left: -125px;
+}
+img{
+    margin-left: 250px;
+}
+placeholder{
+    font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #808080;
+}
